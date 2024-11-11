@@ -1,6 +1,7 @@
 <div align="center">
     
 👋 Hi, I’m @JoakoU, A person who likes rhythm games and music 🔥
+
 📩 If you need to contact me, you can write me on Discord (dorito_fxaa)
 
 <div align="center">
