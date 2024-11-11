@@ -8,6 +8,7 @@
     <strong>Osu!Profile:</strong><br>
 </div>
 
+
 <div align="center">
 
 ![osu! profile card](https://osu-sig.vercel.app/card?user=KawaDash&mode=mania&lang=en&blur=6&animation=true&hue=125&mini=false)
