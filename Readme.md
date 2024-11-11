@@ -9,3 +9,7 @@
 <div align="center">
   
 ![](https://osekai.net/profiles/img/banner.svg?id=25087082)
+
+<div align="center">
+  
+![](https://osekai.net/profiles/?user=25087082&page=Home&mode=mania)
