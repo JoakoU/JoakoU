@@ -22,7 +22,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-    <a href="https://github.com/JoakoU/index.html" style="text-decoration: none; color: #61dafb; font-weight: bold; border: 2px solid #1a1a1d; background-color: #20232a; padding: 10px 20px; border-radius: 5px; display: inline-block;">
+    <a href="https://github.com/JoakoU/index.html/issues/new/choose" style="text-decoration: none; color: #61dafb; font-weight: bold; border: 2px solid #1a1a1d; background-color: #20232a; padding: 10px 20px; border-radius: 5px; display: inline-block;">
         Leave a commentary here!
     </a>
 </div>
