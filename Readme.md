@@ -5,10 +5,13 @@
 
 </div>
 
-<div align="left" style="border: 2px solid #1a1a1d; background-color: #20232a; color: #61dafb; padding: 10px; border-radius: 5px; width: 70%; margin-top: 20px;">
+<div align="center" style="border: 2px solid #1a1a1d; background-color: #20232a; color: #61dafb; padding: 10px; border-radius: 5px; width: 70%; margin-top: 20px;">
     <strong>Joako</strong><br>
     Hello people who see my profile! :3
 </div>
 
+<div align="left" style="border: 2px solid #1a1a1d; background-color: #20232a; color: #61dafb; padding: 10px; border-radius: 5px; width: 70%; margin-top: 20px;">
+     Hello people who see my profile! :3
+</div>
   
 
