@@ -8,4 +8,4 @@
 
 <div align="center">
   
-![](https://osekai.net/profiles/img/banner.svg?id=25087082)
+
