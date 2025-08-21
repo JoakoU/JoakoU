@@ -8,14 +8,4 @@ If you need to contact me, you can send me a dm on Discord (dorito_fxaa)
 <div align="center" style="border: 2px solid #1a1a1d; background-color: #20232a; color: #61dafb; padding: 10px; border-radius: 5px; width: 70%; margin-top: 20px;">
     <strong>👾 JOAKO 🧉</strong><br>
     Hello people who see my profile! :3
-
-<div align="center" style="border: 2px solid #1a1a1d; background-color: #20232a; color: #61dafb; padding: 10px; border-radius: 5px; width: 70%; margin-top: 20px;">
-    <strong>Osu! Profile:</strong><br>
- 
-</div>
-
-<div align="center">
-
-![osu! profile card](https://osu-sig.vercel.app/card?user=KawaDash&mode=mania&lang=en&blur=6&animation=true&hue=125&mini=false)
-
 </div>
