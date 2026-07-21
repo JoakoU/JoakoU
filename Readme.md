@@ -1,7 +1,7 @@
 <div align="left">
 
 <pre style="background-color: #0d1117; padding: 15px; border-radius: 8px; font-family: monospace;">
-<font color="#FFB7C5"><b>  ~ JOAKO                                               🟢 🟡 🔴</b></font>
+<font color="#FFB7C5"><b>  ~ JOAKO                                                🟢 🟡 🔴</b></font>
 <font color="#666666">──────────────────────────────────────────────────────────────────</font>
 <font color="#FFB7C5"><b> > OS          │</b></font> <font color="#FFFFFF">Linux Mint</font>
 <font color="#FFB7C5"><b> > DISCORD     │</b></font> <font color="#FFFFFF">dorito_fxaa</font>
@@ -23,5 +23,15 @@
 ⠀⠀⠀⣸⣿⡿⣿⡟⢠⣿⣿⢷⣦⢠⣤⣤⣤⠰⣶⣶⣿⠃⣼⣡
 ⠀⠀⢠⣿⡿⢠⣿⢡⣿⣿⠃⣾⡇⣸⢸⣿⣿⡇⡿⢿⣿⣿⣿⣿
 </pre>
+
+<br>
+<div align="center">
+  <a href="https://github.com/joakoU">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoakoU&theme=react-dark&hide_border=true&area=true" height="300" alt="Activity Graph" />
+  </a>
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gt4wuehxhxkp4lxhr183r0vzd" height="300" alt="Spotify Recently Played" />
+  </a>
+</p>
 
 </div>
